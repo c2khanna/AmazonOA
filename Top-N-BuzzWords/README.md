@@ -46,3 +46,8 @@ elmo - 4
 elsa - 4
 "elmo" should be placed before "elsa" in the result because "elmo" appears in 3 different quotes and "elsa" appears in 2 different quotes.
 ```
+
+#### Related Links
+[AoneCode | Top N Buzzwords](https://aonecode.com/amazon-online-assessment-top-n-buzzwords)
+
+[LeetCode | Top K Frequently Mentioned Keywords](https://leetcode.com/discuss/interview-question/542597/)
