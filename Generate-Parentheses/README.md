@@ -13,3 +13,7 @@ For example, given n = 3, a solution set is:
   "()()()"
 ]
 ```
+
+### Related Links
+
+* [LeetCode | Question](https://leetcode.com/problems/generate-parentheses/)
