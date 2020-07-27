@@ -30,3 +30,4 @@ At the end of the 2nd hour, the status of the grid:
 * [LeetCode | Discuss for This Question](https://leetcode.com/discuss/interview-question/411357/)
 * [LeetCode | Similar Question](https://leetcode.com/problems/rotting-oranges/)
 * [LeetCode | Similar Question](https://leetcode.com/problems/walls-and-gates/)
+* [AoneCode | This Question](https://aonecode.com/amazon-online-assessment-zombie-matrix)
