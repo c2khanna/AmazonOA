@@ -19,5 +19,5 @@ Output:
 ```
 
 ### Related Links
-* [AoneCode | This Question](https://aonecode.com/amazon-online-assessment-find-related-books)\
+* [AoneCode | This Question](https://aonecode.com/amazon-online-assessment-find-related-books)
 * [GeeksForGeek | Actual Question](https://www.geeksforgeeks.org/amazon-interview-experience-sde-2-10/)
